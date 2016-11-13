@@ -1,0 +1,5 @@
+Want to:
+* Serve html/js content. Ugly for the moment, angularjs for later on
+* Rest api. No need to worry about persistence at this point
+* Persistence
+* Web sockets usage
